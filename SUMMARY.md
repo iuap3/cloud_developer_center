@@ -46,3 +46,4 @@
   * [拷贝容器内文件到Linux服务器](articles/cloud/4-/copy_file2linux.md)
   * [如何下载应用包](articles/cloud/4-/download_app_package.md)
   * [利用开发者中心流水线制作私有基础镜像](articles/cloud/4-/create_ownbase_image.md)
+  * [开启/关闭调试端口](articles/cloud/4-/how_to_manage_debug_port.md)
