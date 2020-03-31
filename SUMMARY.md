@@ -70,6 +70,7 @@
   - [手动调试](articles/cloud/4-/debug_mode.md)
   - [宿主机模式](articles/cloud/4-/host_mode.md)
   - [宿主机网络模式下添加调试端口](articles/cloud/4-/debug_in_host_mode.md)
+  - [开启调试端口导致阻塞问题解决办法](articles/cloud/4-/solution_debug_mode.md)
 
 - 宣传专区
   - [视频专区](articles/cloud/5-)
