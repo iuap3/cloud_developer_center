@@ -1,7 +1,8 @@
 # 云开发者中心
+
 <!--
 #位置变动[持续集成],[应用管理],[监控大盘]
-#新添加[应用日志] [产品服务] [YS上线申请] [产品管理] [打包出盘] [云产品仓库] [云产品申请] 
+#新添加[应用日志] [产品服务] [YS上线申请] [产品管理] [打包出盘] [云产品仓库] [云产品申请]
 #      [云产品审核] [云产品指标] [云产品指标总览]
 -->
 
@@ -33,7 +34,7 @@
     - [镜像仓库](articles/cloud/3-/deploy.md)
     - [监控大盘](articles/cloud/3-/monitor.md)
   - [DevOps 服务](articles/cloud/3-)
-    - [YS上线申请](articles/cloud/3-/ys_online.md)
+    - [YS 上线申请](articles/cloud/3-/ys_online.md)
     - [产品管理](articles/cloud/3-/product_management.md)
     - [打包出盘](articles/cloud/3-/package.md)
     - [变更大盘](articles/cloud/3-/change.md)
@@ -55,6 +56,7 @@
   - [权限管理](articles/cloud/3-/access.md)
 
 - 产品常见问题
+
   - [常见问题](articles/cloud/4-/question.md)
   - [流水线常见问题](articles/cloud/4-/assembly_line_question.md)
   - [Linux 常用命令](articles/cloud/4-/common_linux_command.md)
@@ -71,15 +73,17 @@
   - [宿主机模式](articles/cloud/4-/host_mode.md)
   - [宿主机网络模式下添加调试端口](articles/cloud/4-/debug_in_host_mode.md)
   - [开启调试端口导致阻塞问题解决办法](articles/cloud/4-/solution_debug_mode.md)
+  - [【容器日志】、【容器控制台】打不开](articles/cloud/4-/console.md)
 
 - 宣传专区
+
   - [视频专区](articles/cloud/5-)
     - [视频](articles/cloud/5-/video.md)
   - [文案专区](articles/cloud/5-)
     - [需求管理](articles/cloud/5-/requirement.md)
-    - [企业devops](articles/cloud/5-/enterprise_devops.md)
-  - [kubernetes专区](articles/cloud/5-)
-    - [kubernetes之资源管理](articles/cloud/5-/k8s_qos.md)
+    - [企业 devops](articles/cloud/5-/enterprise_devops.md)
+  - [kubernetes 专区](articles/cloud/5-)
+    - [kubernetes 之资源管理](articles/cloud/5-/k8s_qos.md)
 
 - 专属云
   - [产品介绍](articles/cloud/6-/product.md)
