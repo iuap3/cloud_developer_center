@@ -49,38 +49,6 @@
 ![](/articles/cloud/images/image19.png)
 <p align="center">图 7</p>
 
-第六步：应用上架
-
-点击“应用管理”，选择进入一个应用，点击右上角〖上架〗进入商品上架界面。首先填写接入信息，带*号内容为必填，然后点击〖下一步〗：
-
-![](/articles/cloud/images/image21.png)
-<p align="center">图 8</p>
-
-填写商品基本信息，点击〖下一步〗：
-
-![](/articles/cloud/images/image22.png)
-<p align="center">图 9</p>
-
-填写商品版本规格，点击〖下一步〗：
-
-![](/articles/cloud/images/image23.png)
-<p align="center">图 10</p>
-
-填写资质与案例，点击〖下一步〗：
-
-![](/articles/cloud/images/image24.png)
-<p align="center">图 11</p>
-
-最后，填写售后支持信息。然后点击〖提交〗。
-
-![](/articles/cloud/images/image25.png)
-<p align="center">图 12</p>
-
-提交后，等待管理员审核。审核通过后就可以将应用放到云市场上售卖。
-
-![](/articles/cloud/images/image26.png)
-<p align="center">图 13</p>
-
 
 
 
