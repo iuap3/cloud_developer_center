@@ -95,12 +95,6 @@
 
 ![image](/articles/cloud/3-/images/application/11.png)
 
-11. ```微服务```页签
-
-可以把特定的服务发布为微服务的形式，供其他业务应用调用。页面主要包括：服务详情、API列表、监控、警告、时间轴、依赖关系、可靠消息、事务管理选项。
-
-![image](/articles/cloud/3-/images/application/12.png)
-
 
 
  
