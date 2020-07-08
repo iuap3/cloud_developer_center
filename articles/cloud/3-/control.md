@@ -18,7 +18,7 @@
 </div>
 <p align="center"> 图 2</p>
 
- 图3所示为资源池、持续集成、应用管理、微服务、知识库的快捷入口，可快速跳转到对应模快。
+ 图3所示为持续集成流水线、应用管理快捷入口，可快速访问到最新最热的应用。
 
 <div align="center">
 <img src="/articles/cloud/3-/images/control/3.png">
@@ -26,7 +26,7 @@
 <p align="center"> 图 3</p>
 
 
-图4是改用户账号下所有应用数以及应用的健康状况预览图，其中蓝色代表健康，红色表示异常，黄色表示未知状况。
+图4是改用户账号下所有应用数以及应用的健康状况预览图，其中绿色代表健康，红色表示异常，灰色表示未知状况。
 <div align="center">
 <img src="/articles/cloud/3-/images/control/4.png">
 </div>
@@ -40,14 +40,8 @@
 </div>
 <p align="center"> 图 5</p>
 
-图6左侧所示为用户使用开发者中心时经常遇到的问题，点击每个问题可以看到相应答案，点``more``查看更多问题.右侧为应用的报警信息，方便用户直接查看。
+图6左侧所示为开发者中心的相关文档，以及用户使用时经常遇到的问题，包括常见问题和流水线使用时的常见问题。
 <div align="center">
 <img src="/articles/cloud/3-/images/control/6.png">
 </div>
 <p align="center"> 图 6</p>
-
-图8所示为用户所有应用中访问量最多的前三个应用，即top3。
-<div align="center">
-<img src="/articles/cloud/3-/images/control/7.png">
-</div>
-<p align="center"> 图 7</p>
