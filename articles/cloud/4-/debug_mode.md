@@ -10,10 +10,10 @@
   <img src="./images/debug_mode_1.png"/>
 </div>
 
-将**容器启动命令**修改为：`top`，将**开始检查时间**修改为`60000`，然后点击**保存**，如下图所示：
+将**容器启动命令**修改为：`touch test && tail -f test`，将**开始检查时间**修改为`60000`，然后点击**保存**，如下图所示：
 
 <div align=center>
-  <img src="./images/debug_mode_2.png"/>
+  <img src="./images/debug_mode_6.png"/>
 </div>
 
 **备注**：
