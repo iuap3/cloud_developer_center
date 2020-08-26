@@ -74,6 +74,7 @@
   - [宿主机网络模式下添加调试端口](articles/cloud/4-/debug_in_host_mode.md)
   - [开启调试端口导致阻塞问题解决办法](articles/cloud/4-/solution_debug_mode.md)
   - [【容器日志】、【容器控制台】打不开](articles/cloud/4-/console.md)
+  - [不能访问 mail.yonyou.com 的解决办法](articles/cloud/4-/cannot_connect_mail_yonyou_com.md)
 
 - 宣传专区
 
