@@ -1,6 +1,9 @@
 #.idea
 .idea/
 
+#.vscode
+.vscode
+
 # Logs
 logs
 *.log
