@@ -58,6 +58,7 @@
 - 产品常见问题
 
   - [常见问题](articles/cloud/4-/question.md)
+  - [如何查看应用日志](articles/cloud/4-/log.md)
   - [流水线常见问题](articles/cloud/4-/assembly_line_question.md)
   - [Linux 常用命令](articles/cloud/4-/common_linux_command.md)
   - [只允许内网访问应用](articles/cloud/4-/access_only_inside.md)
