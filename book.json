@@ -1,0 +1,32 @@
+{
+    "title": "开发者中心",
+    "author": "developer center",
+    "description": "",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Github": "https://github.com/iuap3/cloud_developer_center"
+        }
+    },
+    "plugins": [
+        "multipart",
+        "image-captions",
+        "sectionx",
+        "anchor-navigation",
+        "splitter",
+        "anchor-navigation",
+        "-sharing"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "_CAPTION_"
+        },
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
+        },
+        "theme-default": {
+            "showLevel": false
+        }
+    }
+}
