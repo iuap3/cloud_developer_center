@@ -104,6 +104,7 @@ RUN mkdir -p /data/nginx/cache/proxy_cache/tmp /data/log/nginx
 
 ## 增加环境变量-解决maven编译内存溢出的问题
 
+参考：[maven内存溢出解决办法](maven_out_of_memory.md)
 
 ## 使用dockerfile构建gitbook
 
