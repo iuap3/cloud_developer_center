@@ -79,6 +79,7 @@
   - [不能访问 mail.yonyou.com 的解决办法](articles/cloud/4-/cannot_connect_mail_yonyou_com.md)
   - [流水线避坑指南](articles/cloud/4-/assembly_line_FAQ.md)
   - [maven内存溢出](articles/cloud/4-/maven_out_of_memory.md)
+  - [dockerfile示例](articles/cloud/4-/dockerfile_demo.md)
 
 - 宣传专区
 
