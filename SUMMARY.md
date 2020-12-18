@@ -96,3 +96,7 @@
   - [安装盘申请](articles/cloud/6-/installer.md)
   - [常见问题](articles/cloud/6-/README.md)
   - [运维最佳实践](articles/cloud/6-/README.md)
+
+
+- 常用
+  - [常用关键字释义](articles/cloud/4-/keyword_definitions.md)
