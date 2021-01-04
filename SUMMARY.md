@@ -53,7 +53,10 @@
   - [资源申请与审批](articles/cloud/3-/README.md)
     - [域名管理](articles/cloud/3-/cmdb-domain.md)
     - [审批管理](articles/cloud/3-/exam.md)
-  - [权限管理](articles/cloud/3-/access.md)
+  <!-- - [权限管理](articles/cloud/3-/access.md) -->
+  - [权限管理](articles/README.md)
+    - [菜单组的使用](articles/cloud/3-/menu_usage.md)
+    - [自定义控制台](articles/cloud/3-/custom_console.md)
 
 - 产品常见问题
 
