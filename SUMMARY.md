@@ -57,6 +57,7 @@
   - [权限管理](articles/README.md)
     - [菜单组的使用](articles/cloud/3-/menu_usage.md)
     - [自定义控制台](articles/cloud/3-/custom_console.md)
+  - [新版控制台使用引导](articles/cloud/3-/usage_console.md)
 
 - 产品常见问题
 
