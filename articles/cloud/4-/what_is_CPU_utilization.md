@@ -8,7 +8,7 @@ CPU负载的计算公式如下：
 sum by (image,name,instance,id)(rate(container_cpu_user_seconds_total{instance=~"$node",name!~"k8s_POD_.*",name=~".*$container.*",image=~"$image"}[2m])) * 100
 ```
 
-CPU负载计算的是容器正在使用的CPU核心数，然后乘以100。例如，CPU负载为300%，表示容器正在使用3个CPU核心数，如下图所示：
+CPU负载计算的是容器正在使用的CPU核心数，然后乘以100。例如，CPU负载为300%，表示容器正在使用3个CPU，如下图所示：
 
 ![what_is_cpu_utilization_01](images/what_is_CPU_utilization_01.png)
 
