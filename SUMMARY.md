@@ -105,3 +105,4 @@
 
 - 常用
   - [常用关键字释义](articles/cloud/4-/keyword_definitions.md)
+  - [CPU负载](articles/cloud/4-/what_is_CPU_utilization.md)
