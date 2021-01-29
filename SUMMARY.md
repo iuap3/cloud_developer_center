@@ -86,6 +86,7 @@
   - [maven内存溢出解决办法](articles/cloud/4-/maven_out_of_memory.md)
   - [dockerfile示例](articles/cloud/4-/dockerfile_demo.md)
   - [云表单没权限的解决办法](articles/cloud/4-/yb_access_questions.md)
+  - [删除注册中心垃圾实例](articles/cloud/4-/delete_garbage_pod.md)
 
 - 宣传专区
 
